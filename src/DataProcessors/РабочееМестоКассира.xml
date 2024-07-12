@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<DataProcessor uuid="4122502f-2da6-40e1-bb87-1584d93a86c9">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.РабочееМестоКассира" category="Object">
+				<xr:TypeId>33b20046-a147-42ff-9893-2c97f4594ce0</xr:TypeId>
+				<xr:ValueId>3869f281-dd78-4fb2-b2ea-f6aedd5d5937</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.РабочееМестоКассира" category="Manager">
+				<xr:TypeId>1cc8760f-65f0-4dac-a547-34d7b486f14e</xr:TypeId>
+				<xr:ValueId>a184c529-462b-4f63-8c9b-2dabeaf4a343</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РабочееМестоКассира</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e35a6d9d-796c-4c2b-a7ff-ee8756fcec07</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаРМК</Form>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>
